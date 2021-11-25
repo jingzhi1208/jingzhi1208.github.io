@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>KMS激活WIN10 LTSC 2021</title>
+      <link href="/2021/11/26/KMS%E6%BF%80%E6%B4%BBWIN10-LTSC-2021/"/>
+      <url>/2021/11/26/KMS%E6%BF%80%E6%B4%BBWIN10-LTSC-2021/</url>
+      
+        <content type="html"><![CDATA[<p>以管理员身份运行cmd：</p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">slmgr /skms kms.<span class="number">03</span>k.org</span><br></pre></td></tr></table></figure><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">slmgr /ato</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> win10, 激活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hexo butterfly主题下更换字体</title>
       <link href="/2021/11/26/hexo-butterfly%E4%B8%BB%E9%A2%98%E4%B8%8B%E6%9B%B4%E6%8D%A2%E5%AD%97%E4%BD%93/"/>
       <url>/2021/11/26/hexo-butterfly%E4%B8%BB%E9%A2%98%E4%B8%8B%E6%9B%B4%E6%8D%A2%E5%AD%97%E4%BD%93/</url>
