@@ -1335,7 +1335,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: JetBrains Mono,HarmonyOS Sans SC;
+  font-family: JetBrains Mono, "HarmonyOS Sans SC";
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -1463,7 +1463,7 @@ a:hover {
 #site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: JetBrains Mono,HarmonyOS Sans SC;
+  font-family: JetBrains Mono, "HarmonyOS Sans SC";
 }
 .is-center {
   text-align: center;
@@ -1689,7 +1689,7 @@ blockquote footer cite:before {
 #article-container pre,
 #article-container code {
   font-size: var(--global-font-size);
-  font-family: JetBrains Mono,HarmonyOS Sans SC !important;
+  font-family: JetBrains Mono, "HarmonyOS Sans SC" !important;
 }
 #article-container code {
   padding: 0.1rem 0.2rem;
@@ -2666,7 +2666,7 @@ blockquote footer cite:before {
   padding: 0.5rem;
   text-align: center;
   font-size: 14px;
-  font-family: JetBrains Mono,HarmonyOS Sans SC;
+  font-family: JetBrains Mono, "HarmonyOS Sans SC";
 }
 @media screen and (max-width: 768px) {
   #error-wrap .error-content .error-info {
